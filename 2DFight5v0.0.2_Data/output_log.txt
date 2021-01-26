@@ -1,0 +1,78 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Git Repo\2DFight5\2DFight5v0.0.2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Git Repo\2DFight5\2DFight5v0.0.2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Git Repo\2DFight5\2DFight5v0.0.2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Git Repo\2DFight5\2DFight5v0.0.2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Git Repo\2DFight5\2DFight5v0.0.2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Git Repo\2DFight5\2DFight5v0.0.2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Git Repo\2DFight5\2DFight5v0.0.2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Git Repo\2DFight5\2DFight5v0.0.2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.153 seconds
+Platform assembly: E:\Git Repo\2DFight5\2DFight5v0.0.2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Git Repo\2DFight5\2DFight5v0.0.2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.510700 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.204000 ms
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1218.
+Total: 0.694300 ms (FindLiveObjects: 0.045500 ms CreateObjectMapping: 0.065300 ms MarkObjects: 0.564100 ms  DeleteObjects: 0.018600 ms)
+
+lel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+lel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.150200 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1115.
+Total: 0.654800 ms (FindLiveObjects: 0.034500 ms CreateObjectMapping: 0.021300 ms MarkObjects: 0.583800 ms  DeleteObjects: 0.014600 ms)
+
+Try to remove 4001 But Buff Not Found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.SpriteRenderer:INTERNAL_get_color (UnityEngine.Color&)
+  at UnityEngine.SpriteRenderer.get_color () [0x00000] in <filename unknown>:0 
+  at Player.SetTeamColor (UnityEngine.SpriteRenderer SR, Int32 team) [0x00000] in <filename unknown>:0 
+  at EffectCreater.AddLobbyEffect (EffectType e, Single Time, Int32 team) [0x00000] in <filename unknown>:0 
+  at LobbyPlayerModel.Out (Int32 team) [0x00000] in <filename unknown>:0 
+  at LobbyPlayerS.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.583000 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1285.
+Total: 0.888700 ms (FindLiveObjects: 0.093400 ms CreateObjectMapping: 0.033600 ms MarkObjects: 0.716800 ms  DeleteObjects: 0.043700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.460700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1320.
+Total: 0.789300 ms (FindLiveObjects: 0.080300 ms CreateObjectMapping: 0.031400 ms MarkObjects: 0.671900 ms  DeleteObjects: 0.004600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.451100 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1355.
+Total: 0.850500 ms (FindLiveObjects: 0.088400 ms CreateObjectMapping: 0.033700 ms MarkObjects: 0.721300 ms  DeleteObjects: 0.005300 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 544 -> priority: 1 
